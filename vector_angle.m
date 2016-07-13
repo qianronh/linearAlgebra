@@ -1,5 +1,5 @@
 %% calculates the angle between two vectors in radians
-% Inputs are two column vectors
+% Inputs are two column vectors.
 
 function angle = vector_angle(v,w)
 
